@@ -346,7 +346,7 @@
 }
 
 .b-search__main-type svg,.b-search__main-type h5{
-   cursor: pointer; 
+   cursor: pointer;
 }
 
 .b-search__main-type svg:hover g{
@@ -417,7 +417,7 @@
 .b-search__main-form select + span.fa{
     top:14px;
     right:45px;
-    position: absolute;        
+    position: absolute;
 }
 
 .b-search__main-form select:focus{
@@ -513,7 +513,7 @@
     content:'';
     border-radius: 100%;
     vertical-align: text-top;
-    
+
 }
 
 .ui-slider-handle:last-of-type{
@@ -643,7 +643,7 @@
     border-radius:25px;
 }
 
-.owl-buttons > div{  
+.owl-buttons > div{
     padding: 5px!important;
     width:25px;
     height:25px;
@@ -686,7 +686,7 @@
 
 /* Welcome */
 .b-welcome{
-  background:url(../images/backgrounds/audiBg.png) left top no-repeat;
+  background:url(../bg/2.jpg) left top no-repeat;
   position: relative;
 }
 
@@ -842,7 +842,7 @@
 
 .b-world__item-val{
     margin: 25px 0 10px 0;
-    text-align: left;   
+    text-align: left;
 }
 
 .b-world__item-val-title{
@@ -1108,7 +1108,7 @@
     right: 20px;
     top:50%;
     margin-top: -4px;
-    
+
 }
 
 .b-auto__main-nav li:hover a{
@@ -1316,7 +1316,7 @@
     padding: 10px 0 10px 40px;
     border-radius: 30px;
     width:340px;
-    font: 400 13px 'Open Sans',sans-serif;  
+    font: 400 13px 'Open Sans',sans-serif;
 }
 
 .b-contact__form input[type='text']:focus{

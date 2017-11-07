@@ -87,7 +87,10 @@ a.btn.m-btn.m-pay:hover,
 }
 
 
-.b-nav__logo h3 a,
+.b-nav__logo h3 a
+{
+    color: #000
+}
 .b-search__main-form-submit a,
 .b-auto__main-toggle:hover,
 .b-auto__main .b-auto__main-toggle.m-active,

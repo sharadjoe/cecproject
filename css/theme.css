@@ -2,7 +2,7 @@
 /*-- login --*/
 
 .login-right h3{
-    color: #00959F;
+    color: #2dcc70;
     font-size: 1.5em;
     font-family: 'Montserrat', sans-serif;
 }
@@ -18,19 +18,19 @@
     margin-top: 20px;
 }
 .login-right h4{
-    color:#00959F;
+    color:#545454;
     font-size:12px;
     margin:20px 0;
 }
 .login-right h4 a{
-    color:#00959F;
+    color:#545454;
     text-decoration:none;
 }
 .login-right h4 a:hover{
     color:#A9A8A8;
 }
 .login-right input[type="submit"] {
-  background:#B7112A;
+  background:#2dcc70;
   color: #fff;
   font-size:1.2em;
   border: none;
@@ -45,7 +45,7 @@
     margin-top:20px;
 }
 .login-right input[type="submit"]:hover {
-    background:#00959F;
+    background:#2dcc70;
 }
 /*-- agileits --*/ 
 .login-grids p {
@@ -54,7 +54,7 @@
     color:#A9A8A8;
 }
 .login-grids p span{
-    color:#48cfc1;  
+    color:#2dcc70;  
 }
 .modal-body {
     padding: 2em;
@@ -80,7 +80,7 @@
     width: 20px;
     height: 20px;
     display: inline-block;
-    border: 2px solid #00959F;
+    border: 2px solid #2dcc70;
     position: absolute;
     left: 0;
     top: -1px;
